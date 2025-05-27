@@ -5,7 +5,7 @@ To-do list
   - start with 2022dbl
 
 analysis routine:
--  check whether tess observes it https://github.com/tessgi/tess-point
+- check whether tess observes it https://github.com/tessgi/tess-point
   - outSec gives you the No of sector observing it.
 - reduce data with TESSreduce pipeline https://github.com/CheerfulUser/TESSreduce
 
